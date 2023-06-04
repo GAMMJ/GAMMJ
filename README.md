@@ -1,4 +1,4 @@
-### Hi there 👋
+### Frontend Developer 👋
 
 <!--
 **GAMMJ/GAMMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--방문자 수, 깃허브 팔로워 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGAMMJ&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 
-## ![image](https://github.com/GAMMJ/GAMMJ/assets/129655012/9191d02f-bc43-4532-bfcf-f791a8e3aee8) TMI
+## 🎵 주소 🤪
 
 <!--
 <a href="https://GAMMJ.github.io/">
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 네이버 : <https://blog.naver.com/mjmj9811> 🌱
 - 이메일 : <gammjmj@gmail.com> 🌱
 
-## 🌙 공부 중 😉
+## 🎵 공부 중 😆
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMMJ&show_icons=true&theme=radical)
 
