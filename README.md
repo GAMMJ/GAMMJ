@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--방문자 수, 깃허브 팔로워 수-->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGAMMJ&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
 
-## 🌙 TMI
+## ![image](https://github.com/GAMMJ/GAMMJ/assets/129655012/9191d02f-bc43-4532-bfcf-f791a8e3aee8) TMI
 
 <!--
 <a href="https://GAMMJ.github.io/">
