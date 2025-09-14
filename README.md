@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitors](https://komarev.com/ghpvc/?username=GAMMJ)
-
+![visitors](https://komarev.com/ghpvc/?username=GAMMJ&color=yellow&style=flat-square&label=Visitors)
 ## 🎵 주소 🤪
 
 <!--
