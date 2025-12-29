@@ -29,10 +29,3 @@ Here are some ideas to get you started:
 - 네이버 : <https://blog.naver.com/mjmj9811> 🌱
 - 이메일 : <gammjmj@gmail.com> 🌱
 
-## 🎵 공부 중 😆
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAMMJ&show_icons=true&theme=radical)
-
-<!--![image](https://media.giphy.com/media/fb4haewhv8ttpwpfMw/giphy.gif)-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAMMJ&layout=compact)](https://github.com/GAMMJ/github-readme-stats)
