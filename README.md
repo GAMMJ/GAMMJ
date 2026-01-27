@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 </a>
 -->
 
-- 네이버 : <https://blog.naver.com/mjmj9811> 🌱
+- 네이버 : <https://gammj.tistory.com/> 🌱
 - 이메일 : <gammjmj@gmail.com> 🌱
 
