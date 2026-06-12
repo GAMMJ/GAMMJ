@@ -55,7 +55,6 @@ I value collaboration, continuous learning, and engineering practices that enabl
 
 - Frontend Engineer
 - Software Engineer
-- Open Source Collaboration
 
 ---
 
@@ -71,33 +70,17 @@ I value collaboration, continuous learning, and engineering practices that enabl
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 
-<br/>
-
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tanstackquery,zustand"/>
 
 ## Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
 ## Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,figma,cursor"/>
 
 </div>
-
----
-
-# 🏗 Frontend Expertise
-
-| Domain | Proficiency | Details |
-|----------|-----------|---------|
-| Frontend Architecture | ⭐⭐⭐⭐⭐ | Scalable folder structures and reusable component design |
-| Authentication Systems | ⭐⭐⭐⭐⭐ | JWT, OAuth, Cookie Strategy, Refresh Token Flow |
-| State Management | ⭐⭐⭐⭐⭐ | Zustand, Context API, React Query |
-| API Integration | ⭐⭐⭐⭐⭐ | REST API, Error Handling, Server State Management |
-| Performance Optimization | ⭐⭐⭐⭐ | Memoization, Caching, Bundle Optimization |
-| Error Handling | ⭐⭐⭐⭐⭐ | HTTP Error Mapping, UX-focused Feedback |
-| User Experience | ⭐⭐⭐⭐⭐ | Responsive UI and accessibility-first development |
 
 ---
 
@@ -134,36 +117,6 @@ Travel and companion matching platform focused on seamless user experience and s
 - Efficient API integration patterns
 - Team collaboration using GitHub Flow
 - Maintainable and scalable architecture
-
-</details>
-
----
-
-<details>
-<summary>
-
-# 💼 Personal Portfolio
-
-</summary>
-
-<br>
-
-Professional portfolio focused on premium UI and developer branding.
-
-| Category | Description |
-|------------|------------|
-| Stack | Next.js · TypeScript |
-| Focus | Personal Branding |
-| UI | Responsive Design |
-| Performance | SEO Optimization |
-
-### Highlights
-
-- Premium design system
-- Responsive layouts
-- Dark mode support
-- Performance-focused rendering
-- Modern component architecture
 
 </details>
 
@@ -217,81 +170,6 @@ Interested in contributing to open-source projects and collaborating with develo
 - Documentation
 
 </details>
-
----
-
-<div align="center">
-
-### ✨ Building products with clean architecture, scalable systems, and delightful user experiences.
-
-</div>
-
----
-
-# 💼 Experience
-
-## Frontend Developer | OZ Coding School
-
-Frontend-focused engineer experienced in building production-grade applications with modern React ecosystems and collaborative workflows.
-
-### Responsibilities
-
-- Built production-grade web applications using React and TypeScript.
-- Collaborated through GitHub Flow and pull request reviews.
-- Implemented authentication systems and API integrations.
-- Developed reusable UI components and design patterns.
-- Improved maintainability through scalable folder structures.
-- Focused on developer experience and clean architecture.
-
-<br/>
-
-![](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![](https://img.shields.io/badge/TanStack_Query-111827?style=for-the-badge)
-![](https://img.shields.io/badge/Zustand-111827?style=for-the-badge)
-![](https://img.shields.io/badge/GitHub_Flow-111827?style=for-the-badge)
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 📚 Continuous Learning | Constantly improving React and TypeScript expertise |
-| 🤝 Team Collaboration | Experience with GitHub Flow and team projects |
-| 🧠 Problem Solving | Focused on maintainable solutions and debugging |
-| 🚀 Frontend Development | Building scalable and user-friendly products |
-
-</div>
-
----
-
-# 🎓 Education & Learning
-
-## OZ Coding School
-
-### Frontend Development Track
-
-![](https://img.shields.io/badge/React-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge)
-
----
-
-## Self Learning
-
-- React
-- TypeScript
-- Next.js
-- System Design
-
-<br/>
-
-![](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs)
-![](https://img.shields.io/badge/System_Design-111827?style=for-the-badge)
-![](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)
 
 ---
 
@@ -366,31 +244,6 @@ Frontend-focused engineer experienced in building production-grade applications 
 <img src="https://raw.githubusercontent.com/YOUR_ID/YOUR_ID/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-# 🔭 Current Focus
-
-```yaml
-learning:
-  - Next.js App Router
-  - React Query
-  - System Design
-
-building:
-  - Danim
-  - Personal Portfolio
-
-exploring:
-  - Docker
-  - CI/CD
-  - AWS
-
-open_to:
-  - Frontend Engineer
-  - Software Engineer
-  - Open Source Collaboration
-```
 
 ---
 
