@@ -1,41 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,40:6D28D9,75:7C3AED,100:2563EB&section=header&text=Minjae%20Kim&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Frontend%20Software%20Engineer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1D4ED8,50:2563EB,75:3B82F6,100:60A5FA&section=header&text=Minjae%20Kim&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Frontend%20Software%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Frontend+Software+Engineer;React+%26+TypeScript+Specialist;Building+Scalable+Products;Clean+Architecture+%7C+Developer+Experience;Always+Learning+and+Growing"/>
-
-<br/>
-
-![](https://img.shields.io/badge/Frontend_Engineer-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/South_Korea-111827?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6)
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Frontend+Software+Engineer;React+%26+TypeScript+Specialist;Building+Reliable+Products;Clean+Architecture+%7C+Developer+Experience"/>
 
 <br/>
 
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+![](https://img.shields.io/badge/Frontend_Engineer-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/South_Korea-0F172A?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
+
+<br/>
+
+<a href="https://gammjmj.tistory.com">
+<img src="https://img.shields.io/badge/Tistory-111827?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/min-jae-kim-102749369">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:gammjmj@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_ID">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/GAMMJ">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=YOUR_ID&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/YOUR_ID?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/YOUR_ID?style=for-the-badge&color=7C3AED)
 
 </div>
 
@@ -43,18 +36,13 @@
 
 # 💫 About Me
 
-Frontend Software Engineer passionate about building scalable, maintainable, and delightful digital experiences.
+안정적이고 유지보수하기 쉬운 웹 애플리케이션을 만드는 데 관심이 있는 프론트엔드 개발자입니다.
 
-I enjoy designing products with a strong emphasis on **clean architecture**, **developer experience**, and **user-centered interfaces**.
+주로 React와 TypeScript를 사용하며, 인증 시스템, API 연동, 상태 관리와 같이 사용자 경험과 서비스의 안정성을 높이는 문제를 해결하는 과정을 즐깁니다.
 
-My primary ecosystem revolves around **React** and **TypeScript**, where I focus on writing maintainable code, improving performance, and building reusable systems that can scale with growing products.
+읽기 쉽고 확장하기 쉬운 코드를 지향하며, 팀원들이 함께 이해하고 발전시킬 수 있는 구조를 고민합니다.
 
-I value collaboration, continuous learning, and engineering practices that enable teams to move faster while maintaining high quality.
-
-### 🚀 Open To
-
-- Frontend Engineer
-- Software Engineer
+현재는 프론트엔드 아키텍처를 개선하고, 더 나은 사용자 경험을 제공하는 제품을 만드는 데 관심을 가지고 학습하고 있습니다.
 
 ---
 
@@ -62,138 +50,60 @@ I value collaboration, continuous learning, and engineering practices that enabl
 
 <div align="center">
 
-## Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js"/>
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Frontend
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tanstackquery,zustand"/>
+![](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## Backend & Databases
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Cloud, DevOps & Tooling
+### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,figma,cursor"/>
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<details open>
-<summary>
-
-# 🌍 Danim
-
-Travel & Companion Matching Platform
-
-</summary>
-
-<br>
-
-Travel and companion matching platform focused on seamless user experience and secure authentication.
-
-| Category | Description |
-|------------|------------|
-| Stack | React · TypeScript · TanStack Query · Zustand |
-| Scale | Team Project |
-| Performance | Optimized API State and Rendering |
-| Security | Cookie-based Refresh Strategy |
-| Impact | Reliable User Authentication |
-| Repository | Private Repository |
-
-### Highlights
-
-- Access Token stored in memory
-- Refresh Token managed through cookies
-- OAuth social login architecture
-- Centralized API error handling
-- Efficient API integration patterns
-- Team collaboration using GitHub Flow
-- Maintainable and scalable architecture
-
-</details>
-
----
-
-<details>
-<summary>
-
-# 🧪 Side Projects
-
-</summary>
-
-<br>
-
-Continuous experimentation with frontend technologies and modern architecture.
-
-| Category | Description |
-|------------|------------|
-| Stack | React · TypeScript |
-| Focus | Learning and Prototyping |
-| Goal | Developer Growth |
-
-### Highlights
-
-- Exploring React ecosystem
-- Reusable component patterns
-- State management approaches
-- Performance improvements
-
-</details>
-
----
-
-<details>
-<summary>
-
-# 🌟 Open Source Contributions
-
-</summary>
-
-<br>
-
-Interested in contributing to open-source projects and collaborating with developers worldwide.
-
-### Focus Areas
-
-- React Ecosystem
-- TypeScript
-- Developer Experience
-- UI Components
-- Documentation
-
-</details>
-
----
-
-# 🌐 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://velog.io">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_ID">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor)
 
 </div>
+
+---
+
+# 🚀 Projects
+
+| Project | Description | Type |
+|-----------|------------|------|
+| 🌍 Danim | 여행 기록 SNS 서비스 | Team |
+| 🧪 Side Projects | Personal experiments and learning projects | Personal |
+
+
+---
+
+# 🎓 Education
+
+### 학사
+
+전자공학과 & 컴퓨터공학과 복수전공
+
+### OZ Coding School
+
+초격차 프론트엔드 17기 이수
 
 ---
 
@@ -201,9 +111,9 @@ Interested in contributing to open-source projects and collaborating with develo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=8B5CF6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GAMMJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=8B5CF6"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAMMJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -211,17 +121,7 @@ Interested in contributing to open-source projects and collaborating with develo
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_ID&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_ID&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://streak-stats.demolab.com?user=GAMMJ&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -231,7 +131,7 @@ Interested in contributing to open-source projects and collaborating with develo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ID&theme=tokyo-night&bg_color=000000&hide_border=true&color=8B5CF6&line=7C3AED&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GAMMJ&theme=tokyo-night&hide_border=true&bg_color=000000&color=8B5CF6&line=7C3AED&point=FFFFFF"/>
 
 </div>
 
@@ -241,47 +141,12 @@ Interested in contributing to open-source projects and collaborating with develo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_ID/YOUR_ID/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/GAMMJ/GAMMJ/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
 ---
-
-# 🤝 Connect
-
-<div align="center">
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_ID">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://velog.io">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# ✨
-
-### "Building products with clean architecture, scalable systems, and delightful user experiences."
-
-<br/>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,40:6D28D9,75:7C3AED,100:2563EB"/>
 
