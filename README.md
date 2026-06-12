@@ -148,6 +148,6 @@
 ---
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,40:6D28D9,75:7C3AED,100:2563EB"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1D4ED8,50:2563EB,75:3B82F6,100:60A5FA"/>
 
 </div>
