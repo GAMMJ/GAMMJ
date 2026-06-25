@@ -2,13 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,25:1D4ED8,50:2563EB,75:3B82F6,100:60A5FA&section=header&text=Minjae%20Kim&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Frontend%20Software%20Engineer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Frontend+Software+Engineer;React+%26+TypeScript+Specialist;Building+Reliable+Products;Clean+Architecture+%7C+Developer+Experience"/>
-
 <br/>
 
 ![](https://img.shields.io/badge/Frontend_Engineer-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/South_Korea-0F172A?style=for-the-badge&logo=googlemaps&logoColor=60A5FA)
 
 <br/>
@@ -36,9 +32,9 @@
 
 # 💫 About Me
 
-안정적이고 유지보수하기 쉬운 웹 애플리케이션을 만드는 데 관심이 있는 프론트엔드 개발자입니다.
+문제의 원인을 끝까지 파고들어 해결하는 프론트엔드 개발자입니다.
 
-주로 React와 TypeScript를 사용하며, 인증 시스템, API 연동, 상태 관리와 같이 사용자 경험과 서비스의 안정성을 높이는 문제를 해결하는 과정을 즐깁니다.
+바이브 코딩을 하면서 하네스 구조를 끊임없이 디벨롭 중 입니다.
 
 읽기 쉽고 확장하기 쉬운 코드를 지향하며, 팀원들이 함께 이해하고 발전시킬 수 있는 구조를 고민합니다.
 
@@ -87,10 +83,10 @@
 
 # 🚀 Projects
 
-| Project | Description | Type |
-|-----------|------------|------|
-| 🌍 Danim | 여행 기록 SNS 서비스 | Team |
-| 🧪 Side Projects | Personal experiments and learning projects | Personal |
+| Service | Description | Group | Link |
+|-----------|------------|------|------|
+| 🌍 Danim | 여행 기록 SNS 서비스 | OZ-FE17 | [Repo](https://github.com/danim-travel/danim-frontend) · [Web Link](https://danim.kr) |
+| 🧪 RedZon | 배틀그라운드 전적검색 서비스 | 개인프로젝트 | 개발중... |
 
 
 ---
@@ -99,11 +95,13 @@
 
 ### 학사
 
-전자공학과 & 컴퓨터공학과 복수전공
+전자공학과 & 컴퓨터공학과 복수전공 <br/>
+<sub>2021.03 ~ 2026.08</sub>
 
 ### OZ Coding School
 
-초격차 프론트엔드 17기 이수
+초격차 프론트엔드 17기 이수 <br/>
+<sub>2025.12 ~ 2026.06</sub>
 
 ---
 
