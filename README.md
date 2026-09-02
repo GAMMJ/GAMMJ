@@ -85,8 +85,8 @@
 
 | Service | Description | Group | Link |
 |-----------|------------|------|------|
-| 🌍 Danim | 여행 기록 SNS 서비스 | OZ-FE17 | [Repo](https://github.com/danim-travel/danim-frontend) · [Web Link](https://danim.kr) |
-| 🧪 RedZon | 배틀그라운드 전적검색 서비스 | 개인프로젝트 | 개발중... |
+| 🌍 Danim | 여행 기록 SNS 서비스 | OZ-FE17 | [Repo](https://github.com/danim-travel/danim-frontend) · 서비스종료 |
+| 🧪 RedZone | 배틀그라운드 전적검색 서비스 | 개인프로젝트 | 개발중... |
 
 
 ---
